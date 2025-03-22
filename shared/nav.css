@@ -1,0 +1,22 @@
+/* The navigation bar */
+.navbar {
+    overflow: hidden;
+    background-color: #FFECD9;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #AB4F30;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background: #A36344;
+    color: #FFECD9;
+}

@@ -1,0 +1,16 @@
+.main {
+    margin-top: 50px;
+    background-color: #469DC1;
+}
+h1 {
+    text-align: center;
+    font-family: "Winky Sans";
+    font-size: 72px;
+    color: #FEC500;
+}
+img {
+    position: center;
+    max-width: 75%;
+    display: block;
+    margin: auto;
+}
